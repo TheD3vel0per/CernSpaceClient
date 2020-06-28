@@ -21,9 +21,9 @@ that can help various projects at CERN.
  - [Philip Zhang](https://github.com/philipyzhang)
  - [Srujan Rao](https://github.com/srujanr40)
 
-## Web
-This is the web application for CernSpace.
-The java client repository is [here](https://github.com/TheD3vel0per/CernSpaceClient).
+## Java Client
+This is the java client for CernSpace.
+The web repository is [here](https://github.com/TheD3vel0per/CernSpaceWeb).
 
 ## License
 ```
