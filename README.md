@@ -18,8 +18,8 @@ that can help various projects at CERN.
  - [Sidharth Grover](https://github.com/Sid10501)
  - [Ansh Gandhi](https://github.com/anshgandhi17)
  - [Liang Liu](https://github.com/StuffByLiang)
- - Philip Zhang
- - Srujan Rao
+ - [Philip Zhang](https://github.com/philipyzhang)
+ - [Srujan Rao](https://github.com/srujanr40)
 
 ## Web
 This is the web application for CernSpace.
